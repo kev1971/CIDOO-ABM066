@@ -10,10 +10,10 @@
 
 ![Главный экран 0](CIDOO-sample0.png)
 
-![Главный экран](CIDOO-sample1.png)
+![Главный экран 1](CIDOO-sample1.png)
 
-![Главный экран](CIDOO-sample2.png)
+![Главный экран 2](CIDOO-sample2.png)
 
-![Главный экран](CIDOO-sample3.png)
+![Главный экран 3](CIDOO-sample3.png)
 
 ![VIAL](VIAL-sample.png)
