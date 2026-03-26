@@ -7,3 +7,13 @@
 [WB](https://www.wildberries.ru/catalog/486496487/detail.aspx?targetUrl=SN)
 
 вот программа которая использует эти файлы [VIA](https://www.usevia.app/design)
+
+![Главный экран 0](CIDOO-sample0.png)
+
+![Главный экран](CIDOO-sample1.png)
+
+![Главный экран](CIDOO-sample2.png)
+
+![Главный экран](CIDOO-sample3.png)
+
+![VIAL](VIAL-sample.png)
